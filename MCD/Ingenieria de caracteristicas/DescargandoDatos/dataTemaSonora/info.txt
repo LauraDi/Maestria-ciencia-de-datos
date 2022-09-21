@@ -1,0 +1,11 @@
+Exportaciones por Entidad Federativa
+
+    Se presenta información de las actividades económicas relacionadas con exportaciones Agropecuarias, 
+    Minería no petrolera, Extracción de Petróleo e Industrias Manufactureras, vinculando la información de los
+    registros aduanales con la de los Censos Económicos, Encuestas Manufactureras y Estadísticas Mineras, 
+    con base en el Registro Estadístico de Negocios de México (RENEM). 
+
+    
+Descargado el 2022-09-16 22:41:50
+Desde: https://www.inegi.org.mx/contenidos/programas/exporta_ef/datosabiertos/
+Nombre: conjunto_de_datos_eef_csv.zip

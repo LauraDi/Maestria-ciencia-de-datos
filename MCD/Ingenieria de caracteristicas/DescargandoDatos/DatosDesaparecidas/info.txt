@@ -1,0 +1,13 @@
+Archivos sobre personas desaparecidas
+
+        Datos de desaparecidos, corte nacional y desagregación a nivel estatal, por edad, por sexo, 
+        por nacionalidad, por año de desaparición y por mes de desaparición para los últimos 12 meses.
+
+        Los datos se obtuvieron del RNPDNO con fecha de 03 de agosto de 2021 (la base de datos se actualiza constantemente) 
+
+        
+Descargado el 2022-08-24 00:02:46
+Desde: http://www.datamx.io/dataset/fdd2ca20-ee70-4a31-9bdf-823f3c1307a2/resource/d352810c-a22e-4d72-bb3b-33c742c799dd/download/desaparecidos3ago.zip
+Nombre: desaparecidosRNPDNO.zip
+Agregados nacionales descargados desde: http://www.datamx.io/dataset/fdd2ca20-ee70-4a31-9bdf-823f3c1307a2/resource/4865e244-cf59-4d39-b863-96ed7f45cc70/download/nacional.json
+Nombre: desaparecidos_nacional.json

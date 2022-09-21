@@ -1,0 +1,28 @@
+﻿
+identifier: MEX-INEGI.EEC6.03-ETEF-2021
+
+title: Estadística de Exportaciones Anuales por Entidad Federativa. Entidad y Subsector 2007-2021, cifras revisadas y preliminares.
+
+description: INEGI. Exportaciones Anuales por Entidad Federativa. Ofrece información trimestral referente al valor de las exportaciones de mercancías de las 32 entidades federativas, que permite conocer la participación de cada una en la venta de mercancías que realiza México con el resto del mundo. Se presenta el desglose de 26 subsectores de actividad económica conforme al Sistema de Clasificación Industrial de América del Norte. Durante noviembre y diciembre de 2020 se realizó el levantamiento del Módulo Anual para Empresas del Sector Agrícola, Manufacturero, Comercial y de Servicios en todas las entidades federativas del país, con el propósito de actualizar la entidad de origen de los productos agropecuarios, incrementar el número de unidades económicas y aumentar los productos agropecuarios considerados en el cálculo de las ETEF, desde del primer trimestre de 2018. Conforme a esto, a partir de la publicación del mes de junio de 2021 se incorpora el subsector 114 “Pesca, caza y captura”, que contempla exportaciones de atún, langosta y pescado fresco. Adicionalmente, se incluyeron las exportaciones de productos agropecuarios realizadas por aquellas personas físicas cuya entidad reportada en el domicilio fiscal corresponde a la entidad donde se ha identificado producción. A partir del 30 de septiembre de 2021 se ajustó la información del subsector 111 Agricultura, para el periodo correspondiente al segundo trimestre de 2020 y los subsectores 324 Fabricación de productos derivados del petróleo y del carbón y 325 Industria química, para el periodo correspondiente al tercer trimestre 2020, debido a actualizaciones de la información fuente. El 31 de diciembre de 2021 se publica el ajuste de la información del subsector 111 Agricultura, para el periodo correspondiente al tercer trimestre de 2020, debido a la actualización de la información fuente. Si el contenido de la columna CODIGO_SCIAN es "000" corresponde a la suma de los montos de aquellos subsectores que no se presentan por confidencialidad; cuando el contenido de la variable ESTATUS_CIFRA es "No disponible" significa que no se cuenta con información para determinar si se realizan exportaciones en la entidad y subsector al que se hace referencia; en el caso de que el contenido sea “No Significativo" el monto de las exportaciones es menor a 500 dólares estadounidenses; en caso de que el contenido de la columna VALOR_USD sea 0 significa que no se realizan exportaciones en ese periodo por ninguno de los establecimientos en la entidad y subsector correspondiente. Cobertura geográfica: Estatal.
+
+modified: 2022-03-31T06:00
+
+publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+mbox: atencion.usuarios@inegi.org.mx
+
+license: https://www.inegi.org.mx/inegi/terminos.html
+
+dataDictionary: https://www.inegi.org.mx/rnm/index.php/catalog/676
+
+keyword: "Comercio exterior", "Exportaciones", "Manufactura", "Establecimiento", "Petróleo", "Minería"
+
+contactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+temporal: 2007-01-01-2021-12-31
+
+spatial: Estados Unidos Mexicanos
+
+accrualPeriodicity: Anualmente
+
+distribution: https://www.inegi.org.mx/programas/exporta_ef/
