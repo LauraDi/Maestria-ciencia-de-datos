@@ -5,6 +5,6 @@ Exportaciones por Entidad Federativa
         recorrieron todo el país con el propósito de visitar cada vivienda y hacer algunas preguntas sobre éstas y sus ocupantes.
 
         
-Descargado el 2022-10-19 22:04:55
-Desde: https://www.inegi.org.mx/contenidos/programas/ccpv/2010/datosabiertos/iter_26_2010_csv.zip
+Descargado el 2022-10-19 22:16:25
+Desde: https://www.inegi.org.mx/contenidos/programas/ccpv/2010/datosabiertos/
 Nombre: iter_26_2010_csv.zip
