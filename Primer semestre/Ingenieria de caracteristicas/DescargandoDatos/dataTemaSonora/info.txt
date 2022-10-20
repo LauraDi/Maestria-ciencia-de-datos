@@ -6,6 +6,6 @@ Exportaciones por Entidad Federativa
     con base en el Registro Estadístico de Negocios de México (RENEM). 
 
     
-Descargado el 2022-09-16 22:41:50
+Descargado el 2022-10-17 19:04:58
 Desde: https://www.inegi.org.mx/contenidos/programas/exporta_ef/datosabiertos/
 Nombre: conjunto_de_datos_eef_csv.zip

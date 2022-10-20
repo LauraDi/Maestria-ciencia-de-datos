@@ -1,0 +1,10 @@
+Exportaciones por Entidad Federativa
+
+        Censo de Población y Vivienda 2010
+        Del 31 de mayo al 25 de junio se realizó el Censo de Población y Vivienda 2010 en el que más de 106 mil entrevistadores, 
+        recorrieron todo el país con el propósito de visitar cada vivienda y hacer algunas preguntas sobre éstas y sus ocupantes.
+
+        
+Descargado el 2022-10-19 22:04:55
+Desde: https://www.inegi.org.mx/contenidos/programas/ccpv/2010/datosabiertos/iter_26_2010_csv.zip
+Nombre: iter_26_2010_csv.zip
