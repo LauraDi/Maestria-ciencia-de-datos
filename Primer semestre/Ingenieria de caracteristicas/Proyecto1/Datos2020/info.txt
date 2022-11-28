@@ -9,6 +9,6 @@ Exportaciones por Entidad Federativa
         características demográficas, socioeconómicas y culturales.
         
         
-Descargado el 2022-10-19 22:16:26
+Descargado el 2022-11-18 12:56:09
 Desde: https://www.inegi.org.mx/contenidos/programas/ccpv/2020/datosabiertos/iter/
 Nombre: iter_26_cpv2020_csv.zip
